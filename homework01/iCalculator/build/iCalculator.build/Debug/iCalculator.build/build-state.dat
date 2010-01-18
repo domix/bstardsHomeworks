@@ -1,0 +1,69 @@
+TiCalculator
+v7
+r0
+t285548020.871947
+cCheck dependencies
+cCompileC build/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/main.o /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/iCalculator normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004AB994890000000000000AF4
+t1253676169
+s2804
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004AD8377E0000000000776F30
+t1255683966
+s7827248
+
+N/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/iCalculator
+t1263855220
+s9120
+
+N/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/iCalculator.LinkFileList
+c000000004B54E674000000000000008C
+t1263855220
+s140
+
+N/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/main.o
+t1263855220
+s4200
+
+N/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c
+c000000004B54E66300000000000000A8
+t1263855203
+s168
+i<CoreFoundation/CoreFoundation.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285548020#285548020#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/main.o /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s285548020.760364
+e285548020.856101
+r1
+xCompileC
+xbuild/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/main.o
+x/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c285548020#285548020#0(0"0(0#0#69"/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c8386658438684291072#1606"    cd /Users/domix/developer/bstardsHomeworks/homework01/iCalculator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/iCalculator-generated-files.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/iCalculator-own-target-headers.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/iCalculator-all-target-headers.hmap -iquote /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/iCalculator-project-headers.hmap -F/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug -I/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/include -I/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/DerivedSources/x86_64 -I/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/DerivedSources -c /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/main.c -o /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/iCalculator normal x86_64
+s285548020.856208
+e285548020.871888
+r1
+xLd
+x/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/iCalculator
+xnormal
+xx86_64
+lSLF07#2@91"Link /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/iCalculator285548020#285548020#0(0"0(0#0#0"18859274414260272#660"    cd /Users/domix/developer/bstardsHomeworks/homework01/iCalculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug -F/Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug -filelist /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/iCalculator.build/Debug/iCalculator.build/Objects-normal/x86_64/iCalculator.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -o /Users/domix/developer/bstardsHomeworks/homework01/iCalculator/build/Debug/iCalculator0#
+
