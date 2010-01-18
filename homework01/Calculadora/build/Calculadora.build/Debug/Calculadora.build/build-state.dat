@@ -1,0 +1,171 @@
+TCalculadora
+v7
+r0
+t285547508.445333
+cCheck dependencies
+cCompileC build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/main.o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Cal.o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/Calculadora normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004AB994890000000000000AF4
+t1253676169
+s2804
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004AD8377E0000000000776F30
+t1255683966
+s7827248
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.h
+c000000004B54E47100000000000000C7
+t1263854705
+s199
+i<Cocoa/Cocoa.h>
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m
+c000000004B54E47100000000000000B4
+t1263854705
+s180
+i"Cal.h"
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.h
+c000000004B54E45300000000000000D5
+t1263854675
+s213
+i<Cocoa/Cocoa.h>
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.m
+c000000004B54E45100000000000000C9
+t1263854673
+s201
+i"Calculator.h"
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.h
+c000000004B54DFFD0000000000000147
+t1263853565
+s327
+i<Cocoa/Cocoa.h>
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.m
+c000000004B54DFEE0000000000000131
+t1263853550
+s305
+i"Calculos.h"
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Cal.o
+t1263854708
+s5444
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculadora.LinkFileList
+c000000004B54E4730000000000000117
+t1263854707
+s279
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculator.o
+t1263854678
+s5496
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculos.o
+t1263853607
+s5484
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/main.o
+t1263853607
+s4200
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/Calculadora
+t2
+s0
+
+N/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c
+c000000004B54CFBA00000000000000A8
+t1263849402
+s168
+i<CoreFoundation/CoreFoundation.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285547507#285547507#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Cal.o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285547507.813566
+e285547508.428508
+r1
+xCompileC
+xbuild/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Cal.o
+x/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m285547507#285547508#0(0"0(0#0#68"/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m4300885448#1614"    cd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-generated-files.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-own-target-headers.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-all-target-headers.hmap -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-project-headers.hmap -F/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/include -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources/x86_64 -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources -c /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Cal.m -o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Cal.o0#
+
+CCompileC build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculator.o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285547477.051307
+e285547478.628664
+r1
+xCompileC
+xbuild/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculator.o
+x/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.m285547477#285547478#0(0"0(0#0#75"/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.m4300885448#1628"    cd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-generated-files.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-own-target-headers.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-all-target-headers.hmap -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-project-headers.hmap -F/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/include -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources/x86_64 -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources -c /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculator.m -o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculator.o0#
+
+CCompileC build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculos.o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285546406.629110
+e285546407.356083
+r1
+xCompileC
+xbuild/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculos.o
+x/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.m285546406#285546407#0(0"0(0#0#73"/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.m4300885448#1624"    cd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-generated-files.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-own-target-headers.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-all-target-headers.hmap -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-project-headers.hmap -F/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/include -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources/x86_64 -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources -c /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/Calculos.m -o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculos.o0#
+
+CCompileC build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/main.o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s285546406.628262
+e285546407.084775
+r1
+xCompileC
+xbuild/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/main.o
+x/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c285546406#285546407#0(0"0(0#0#69"/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c4300885448#1606"    cd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-generated-files.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-own-target-headers.hmap -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-all-target-headers.hmap -iquote /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Calculadora-project-headers.hmap -F/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/include -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources/x86_64 -I/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/DerivedSources -c /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/main.c -o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/Calculadora normal x86_64
+s285547508.428603
+e285547508.445292
+r0
+xLd
+x/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/Calculadora
+xnormal
+xx86_64
+oUndefined symbols:
+o  "__objc_empty_vtable", referenced from:
+o      _OBJC_METACLASS_$_Cal in Cal.o
+o      _OBJC_CLASS_$_Cal in Cal.o
+o  "__objc_empty_cache", referenced from:
+o      _OBJC_METACLASS_$_Cal in Cal.o
+o      _OBJC_CLASS_$_Cal in Cal.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@91"Link /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/Calculadora285547508#285547508#0(302"Undefined symbols:  "__objc_empty_vtable", referenced from:      _OBJC_METACLASS_$_Cal in Cal.o      _OBJC_CLASS_$_Cal in Cal.o  "__objc_empty_cache", referenced from:      _OBJC_METACLASS_$_Cal in Cal.o      _OBJC_CLASS_$_Cal in Cal.old: symbol(s) not foundcollect2: ld returned 1 exit status8(4@39""__objc_empty_vtable", referenced from:285547508#19#42#0(6@0"285547508#0#0#0#0#0"0(13@30"_OBJC_METACLASS_$_Cal in Cal.o285547508#61#37#0(6@0"285547508#0#0#0#0#0"0(13@26"_OBJC_CLASS_$_Cal in Cal.o285547508#98#33#0(6@0"285547508#0#0#0#0#0"0(4@38""__objc_empty_cache", referenced from:285547508#131#41#0(6@0"285547508#0#0#0#0#0"0(13@30"_OBJC_METACLASS_$_Cal in Cal.o285547508#172#37#0(6@0"285547508#0#0#0#0#0"0(13@26"_OBJC_CLASS_$_Cal in Cal.o285547508#209#33#0(6@0"285547508#0#0#0#0#0"0(13@19"Symbol(s) not found285547508#242#24#0(6@0"285547508#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status285547508#266#36#0(6@0"285547508#0#0#0#0#0"0(0#0#0"4300885448#660"    cd /Users/domix/developer/bstardsHomeworks/homework01/Calculadora    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug -F/Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug -filelist /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Calculadora.build/Debug/Calculadora.build/Objects-normal/x86_64/Calculadora.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -o /Users/domix/developer/bstardsHomeworks/homework01/Calculadora/build/Debug/Calculadora1#
+
